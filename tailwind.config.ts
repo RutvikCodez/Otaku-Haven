@@ -14,6 +14,9 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
         hero: 'url("/hero.png")',
       },
+      backgroundColor: {
+        "accent-1": "#0F1117"
+      }
     },
   },
   plugins: [],
